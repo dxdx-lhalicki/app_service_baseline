@@ -62,3 +62,7 @@ Feel free to submit pull requests for enhancements, bug fixes, or new features.
 ## License
 
 This project is licensed under the MIT License.
+
+## Blog post
+
+https://www.thecloudtips.com/blog/1
